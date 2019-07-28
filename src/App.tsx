@@ -2,7 +2,7 @@ import * as React from 'react';
 
 import './App.css';
 import Lashies from './assets/lash.jpg';
-import Navigation from './components/Navigation';
+import Navigation from './components/Navigation/Navigation';
 
 class App extends React.Component {
   public render() {
@@ -12,7 +12,6 @@ class App extends React.Component {
           <img src={Lashies} alt="eyelashes"/>
           <Navigation />
         </header>
-        <p>heelo</p>
       </div>
     );
   }
