@@ -1,5 +1,13 @@
 header {
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
   padding: 1rem;
+}
+
+header > img {
+  width: 40%;
+  max-width: 15rem;
+  margin: 2rem;
 }

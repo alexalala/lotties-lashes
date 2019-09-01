@@ -1,10 +1,10 @@
 import * as React from 'react';
 
-import styles from './Navigation.module.css';
+import './Navigation.css';
 
 const Navigation = () => {
     return (
-        <nav className={styles.navbar}>
+        <nav className="navbar">
             <a>Home</a>
             <a>Prices</a>
             <a>About Me</a>

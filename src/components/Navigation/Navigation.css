@@ -1,0 +1,9 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar > a {
+    margin: 1rem 1.5rem;
+    text-align: center;
+}
