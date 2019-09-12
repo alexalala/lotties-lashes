@@ -1,7 +1,6 @@
 import * as React from 'react';
 
 import './App.css';
-import Lashies from './assets/lash.jpg';
 import Navigation from './components/Navigation/Navigation';
 
 class App extends React.Component {
@@ -9,7 +8,11 @@ class App extends React.Component {
     return (
       <div className="App">
         <header>
-          <img src={Lashies} alt="eyelashes"/>
+          <div className="overlay-container">
+            <div className="heading-container">
+              <h1>Lotties Lashes</h1>
+            </div>
+          </div>
           <Navigation />
         </header>
       </div>
