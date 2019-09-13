@@ -6,8 +6,7 @@ const Navigation = () => {
     return (
         <nav className="navbar">
             <a>Home</a>
-            <a>Prices</a>
-            <a>About Me</a>
+            <a>Services</a>
             <a>Contact</a>
         </nav>
     )
