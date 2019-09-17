@@ -2,29 +2,4 @@ header {
   display: flex;
   justify-content: start;
   flex-direction: column;
-  height: 100vh;
-}
-
-header > img {
-  width: 40%;
-  max-width: 15rem;
-  margin: 2rem;
-}
-
-.overlay-container {
-  background-color: #feeef3;
-  width: 70%;
-  height: 100%;
-}
-
-.heading-container {
-  display: flex;
-  width: 110%;
-  height: 11rem;
-  color: white;
-  align-items: center;
-  background: #525252;
-  text-transform: uppercase;
-  padding: 2rem;
-  font-size: 2.5rem;
 }

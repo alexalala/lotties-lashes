@@ -5,9 +5,9 @@ import './Navigation.css';
 const Navigation = () => {
     return (
         <nav className="navbar">
-            <a>Home</a>
-            <a>Services</a>
-            <a>Contact</a>
+            <a href="/">Home</a>
+            <a href="/services">Services</a>
+            <a href="/contact">Contact</a>
         </nav>
     )
 };
