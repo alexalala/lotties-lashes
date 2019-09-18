@@ -1,0 +1,12 @@
+{
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit cuom fermentum, metus platea fusce taciti primis semper vel scelerisque donec, aenean habitasse urna litora massa mollis hac tempor.  ipsum dolor sit amet consectetur adipiscing eli.",
+    "hours": {
+        "Monday": "10am-4pm",
+        "Tuesday": "10am-4pm",
+        "Wednesday": "10am-4pm",
+        "Thursday": "10am-4pm",
+        "Friday": "10am-4pm",
+        "Saturday": "10am-4pm",
+        "Sunday": "10am-4pm"
+    }
+}
