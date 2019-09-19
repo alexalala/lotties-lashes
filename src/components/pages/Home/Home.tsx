@@ -11,8 +11,8 @@ const Home: React.FunctionComponent = () =>
                 <img src={LashPic} alt="eyelash process picture" />
                 <div className="image-overlay" />
             </div>
-            <div>
-                <p>{HomeCopy.inspoQuote}</p>
+            <div className="quote-container">
+                <h2>{HomeCopy.inspoQuote}</h2>
             </div>
         </div>
     </div>

@@ -2,6 +2,7 @@
     background-color: #E8AEB7;
     max-height: 25rem;
     margin-top: 5rem;
+    position: relative;
 }
 
 .headline-banner .image-container {
@@ -23,4 +24,21 @@
     left: 5%;
     top: 5%;
     border: 1px solid white;
+}
+
+.headline-banner .quote-container {
+    height: 8rem;
+    width: 30rem;
+    background: #FFF0FD;
+    position: absolute;
+    top: 6.5rem;
+    left: 34rem;
+    padding: 2rem 4rem;
+    display: flex;
+    align-items: center;
+}
+
+.headline-banner h2 {
+    font-size: 3.25rem;
+    margin: 0;
 }
