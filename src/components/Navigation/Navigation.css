@@ -1,9 +1,34 @@
-.navbar {
+nav {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
-.navbar > a {
-    margin: 1rem 1.5rem;
+nav img {
+    max-width: 7rem;
+    margin: 2rem;
+}
+
+nav .navigation-links {
+    display: flex;
+    align-items: baseline;
+    margin: auto 20% auto auto;
+}
+
+nav a {
+    padding: 0 1.25rem;
+    text-transform: uppercase;
     text-align: center;
+    text-decoration: none;
+    color: #2c363f;
+    font-size: 1.1rem;
+}
+
+nav .active::after {
+    content: "";
+    height: 0.5rem;
+    display: block;
+    border: solid 2px #CBB46A;
+    border-top: none;
+    width: calc(100% + 1rem);
+    margin: -0.25rem -0.5rem;
 }
