@@ -14,6 +14,9 @@ const Home: React.FunctionComponent = () =>
             <div className="quote-container">
                 <h2>{HomeCopy.inspoQuote}</h2>
             </div>
+            <div className="about-text">
+                <p>{HomeCopy.aboutText}</p>
+            </div>
         </div>
     </div>
 
