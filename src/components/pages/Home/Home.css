@@ -44,10 +44,32 @@
 }
 
 .about-text {
-    padding: 1rem 10rem;
+    padding: 1rem 20%;
     font-size: 1.25rem;
     line-height: 2.25rem;
     text-align: justify;
     margin: 2rem 0;
     background: #f6e5f4;
+}
+
+.socials {
+    margin: 5rem 0px;
+    text-align: center;
+}
+
+.socials > div {
+    height: 15rem;
+    background: pink;
+    margin: 2rem 5rem;
+}
+
+.socials > a {
+    height: 2rem;
+    color: #635142;
+    text-decoration: none;
+}
+
+.socials > a > img {
+    margin: -0.35rem 0.5rem;
+    height: 1.5rem;
 }
