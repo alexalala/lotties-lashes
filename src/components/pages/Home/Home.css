@@ -5,6 +5,13 @@
     position: relative;
 }
 
+.visually-hidden {
+    visibility: hidden;
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+}
+
 .headline-banner .image-container {
     height: 30rem;
     width: 30rem;

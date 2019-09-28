@@ -17,11 +17,11 @@
     padding: 4rem 2rem;
 }
 
-.services-container-outer h3 {
+.services-container-outer h1 {
     margin: 0;
     text-align: center;
 }
 .services-container-outer p,
-.services-container-outer h3 {
+.services-container-outer h1 {
     margin: 0;
 }

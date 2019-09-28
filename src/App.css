@@ -8,3 +8,9 @@ main {
   display: flex;
   justify-content: center;
 }
+
+h1 {
+  text-align: center;
+  font-size: 2.75rem;
+  font-weight: 100;
+}

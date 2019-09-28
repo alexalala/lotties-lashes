@@ -7,6 +7,7 @@ import './Home.css';
 
 const Home: React.FunctionComponent = () =>
     <div>
+        <h1 className="visually-hidden">Home</h1>
         <div className="headline-banner">
             <div className="image-container">
                 <img src={LashPic} alt="eyelash process picture" />

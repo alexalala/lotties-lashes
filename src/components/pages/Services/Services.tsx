@@ -7,7 +7,7 @@ const Services: React.FunctionComponent = () =>
 <div className="services-container-outer">
     <div>
         <div>
-            <h2>{ServicesCopy.title}</h2>
+            <h1>{ServicesCopy.title}</h1>
             {
                 ServicesCopy.services.map((service, k) =>
                     <div key={k}>
