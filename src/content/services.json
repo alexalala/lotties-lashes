@@ -1,22 +1,25 @@
-[
-    {
-        "title": "Service 1",
-        "price": "35",
-        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit cuom fermentum, metus platea fusce taciti primis"
-    },
-    {
-        "title": "Service 2",
-        "price": "30",
-        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit cuom fermentum, metus platea fusce taciti primis"
-    },
-    {
-        "title": "Service 3",
-        "price": "20",
-        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit cuom fermentum, metus platea fusce taciti primis"
-    },
-    {
-        "title": "Service 4",
-        "price": "15",
-        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit cuom fermentum, metus platea fusce taciti primis"
-    }
-]
+{
+    "title": "Services",
+    "services": [
+        {
+            "title": "Service 1",
+            "price": "35",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit cuom fermentum, metus platea fusce taciti primis"
+        },
+        {
+            "title": "Service 2",
+            "price": "30",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit cuom fermentum, metus platea fusce taciti primis"
+        },
+        {
+            "title": "Service 3",
+            "price": "20",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit cuom fermentum, metus platea fusce taciti primis"
+        },
+        {
+            "title": "Service 4",
+            "price": "15",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit cuom fermentum, metus platea fusce taciti primis"
+        }
+    ]
+}

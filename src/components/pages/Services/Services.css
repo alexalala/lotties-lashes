@@ -1,0 +1,27 @@
+.services-container-outer {
+    width: 60%;
+    max-width: 40rem;
+    margin: 5% 10%;
+    background: #E8AEB7;
+    padding: 6rem;
+}
+.services-container-outer > div {
+    border: 1px solid white;
+    margin: -20px;
+    background: #E8AEB7;
+    padding: 15px;
+}
+
+.services-container-outer > div > div {
+    background: white;
+    padding: 4rem 2rem;
+}
+
+.services-container-outer h3 {
+    margin: 0;
+    text-align: center;
+}
+.services-container-outer p,
+.services-container-outer h3 {
+    margin: 0;
+}
