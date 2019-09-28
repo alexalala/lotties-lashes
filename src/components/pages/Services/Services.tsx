@@ -10,8 +10,8 @@ const Services: React.FunctionComponent = () =>
             <h1>{ServicesCopy.title}</h1>
             {
                 ServicesCopy.services.map((service, k) =>
-                    <div key={k}>
-                        <h3>{service.title} - £{service.price}</h3>
+                    <div className="service" key={k}>
+                        <h3><span>[</span>{service.title} - £{service.price}<span>]</span></h3>
                         <p>{service.description}</p>
                     </div>
                 )
