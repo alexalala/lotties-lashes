@@ -12,27 +12,6 @@
     left: -9999px;
 }
 
-.headline-banner .image-container {
-    height: 30rem;
-    width: 30rem;
-    position: relative;
-    top: -2.5rem;
-    left: 5rem;
-}
-
-.headline-banner .image-container img {
-    height: 100%;
-}
-
-.headline-banner .image-overlay {
-    height: 90%;
-    width: 90%;
-    position: absolute;
-    left: 5%;
-    top: 5%;
-    border: 1px solid white;
-}
-
 .headline-banner .quote-container {
     height: 8rem;
     width: 30rem;
