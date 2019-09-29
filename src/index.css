@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
 
 @font-face {
-  font-family: 'RaybentMango';
-  src: url('./assets/RaybentMango.ttf') format('truetype')
+  font-family: 'CountrysideTwo';
+  src: url('./assets/CountrysideTwo.ttf') format('truetype')
 }
 
 body {
@@ -11,4 +11,8 @@ body {
   font-family: 'Comfortaa', cursive;
   background: #fbf9f9;
   color: #635142;
+}
+
+h1 {
+  font-family: 'CountrysideTwo';
 }
