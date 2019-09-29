@@ -27,6 +27,8 @@
 .headline-banner h2 {
     font-size: 3.25rem;
     margin: 0;
+    font-family: 'RaybentMango', cursive;
+    font-weight: 100;
 }
 
 .headline-banner .image-container {
@@ -37,7 +39,6 @@
 .about-text {
     padding: 1rem 20%;
     font-size: 1.25rem;
-    line-height: 2.25rem;
     text-align: justify;
     margin: 2rem 0;
     background: #f6e5f4;

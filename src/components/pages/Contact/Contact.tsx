@@ -11,22 +11,20 @@ import './Contact.css';
 const Contact: React.FunctionComponent = () =>
     <div className="contact">
         <ImageWithBorder source={LashPic} />
-        <div>
+        <div className="background-panel">
             <div>
                 <h1>{ContactCopy.title}</h1>
-                <p>{ContactCopy.description}</p>
-                <div>
-                    <p>Hours:</p>
-                    <div>
-                        {
-                            Object.keys(ContactCopy.hours).map((key, i) => (
-                                <div key={i}>
-                                    <p>{key}</p>
-                                    <p>{ContactCopy.hours[key]}</p>
-                                </div>
-                            ))
-                        }
-                    </div>
+                <div className="gutter-container">
+                    <p>{ContactCopy.description}</p>
+                    <h2>Hours:</h2>
+                    {
+                        Object.keys(ContactCopy.hours).map((key, i) => (
+                            <div className="day" key={i}>
+                                <p>{key}</p>
+                                <p>{ContactCopy.hours[key]}</p>
+                            </div>
+                        ))
+                    }
                 </div>
             </div>
         </div>

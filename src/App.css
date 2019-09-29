@@ -14,3 +14,7 @@ h1 {
   font-size: 2.75rem;
   font-weight: 100;
 }
+
+p {
+  line-height: 2.25rem;
+}

@@ -7,3 +7,40 @@
     height: 25rem;
     width: 25rem;
 }
+
+.background-panel {
+    background: #E8AEB7;
+    margin: -9rem 0 0 15%;
+    padding-top: 11rem;
+}
+
+.background-panel > div {
+    background: #f6e5f4;
+    margin-left: -6rem;
+    width: 100%;
+}
+
+.background-panel h1 {
+    text-align: left;
+    padding: 2rem;
+}
+
+.background-panel h2 {
+    margin: 3rem 0 1rem 0;
+}
+
+.gutter-container {
+    padding: 0 15%;
+}
+
+.day {
+    display: flex;
+    margin: 0 20%;
+    max-width: 20rem;
+    justify-content: space-between;
+    font-size: 1.25rem;
+}
+
+.day p {
+    margin: 0.75rem 0;
+}
