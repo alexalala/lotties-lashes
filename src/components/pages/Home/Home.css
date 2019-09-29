@@ -29,6 +29,11 @@
     margin: 0;
 }
 
+.headline-banner .image-container {
+    top: -2.5rem;
+    left: 5rem;
+}
+
 .about-text {
     padding: 1rem 20%;
     font-size: 1.25rem;
