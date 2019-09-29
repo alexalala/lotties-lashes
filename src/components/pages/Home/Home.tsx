@@ -22,11 +22,13 @@ const Home: React.FunctionComponent = () =>
             </div>
             <div className="socials">
                 <h2>{HomeCopy.instagramHeading}</h2>
-                <div />
                 <a href="https://www.instagram.com/lashesbylottienorwich/">
                     <img src={InstaLogo} />
                     {HomeCopy.instagramText}
                 </a>
+                <div>
+                    <div id="pixlee_container"/>
+                </div>
             </div>
         </div>
     </div>
