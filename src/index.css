@@ -25,7 +25,7 @@ h1 {
   nav img {
     margin: 0.5rem 2rem;
   }
-  
+
   nav .navigation-links {
     flex-direction: column;
     margin: 0;
@@ -48,4 +48,23 @@ h1 {
     margin: auto;
   }
 
+  .headline-banner .quote-container {
+    height: auto;
+    top: auto;
+    width: auto;
+    position: inherit;
+    left: auto;
+  }
+
+  .headline-banner h2 {
+    font-size: 1.5rem;
+  }
+
+  .about-text {
+    margin: 0;
+  }
+
+  .socials > div {
+    margin: 2rem 1rem;
+  }
 }
