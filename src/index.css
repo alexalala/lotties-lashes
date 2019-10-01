@@ -54,6 +54,7 @@ h1 {
     width: auto;
     position: inherit;
     left: auto;
+    padding: 2rem;
   }
 
   .headline-banner h2 {
@@ -62,6 +63,7 @@ h1 {
 
   .about-text {
     margin: 0;
+    padding: 1rem 2rem;
   }
 
   .socials > div {
