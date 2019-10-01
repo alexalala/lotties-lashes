@@ -69,4 +69,19 @@ h1 {
   .socials > div {
     margin: 2rem 1rem;
   }
+
+
+  .services-container-outer {
+    width: auto;
+    margin: 1rem;
+    padding: 3rem;
+  }
+
+  .services-container-outer > div > div {
+    padding: 2rem 0.5rem;
+  }
+
+  .service {
+    margin: auto;
+  }
 }
