@@ -28,7 +28,7 @@ h1 {
 
   nav .navigation-links {
     flex-direction: column;
-    margin: 0;
+    margin: 0 0 1rem 0;
     align-items: center;
   }
 
@@ -36,11 +36,8 @@ h1 {
     margin: 1rem;
   }
 
-  .headline-banner {
-    margin-top: 1rem;
-  }
-
-  .headline-banner .image-container {
+  .headline-banner .image-container,
+  .contact .image-container {
     top: 0;
     left: 0;
     height: 20rem;
@@ -73,7 +70,7 @@ h1 {
 
   .services-container-outer {
     width: auto;
-    margin: 1rem;
+    margin: 0 1rem;
     padding: 3rem;
   }
 
@@ -81,7 +78,33 @@ h1 {
     padding: 2rem 0.5rem;
   }
 
-  .service {
+  .service,
+  .headline-banner {
     margin: auto;
+  }
+
+  .back-panel {
+    background-color: inherit; 
+  }
+
+  .background-panel {
+    margin: 1rem;
+    padding: 0;
+  }
+
+  .background-panel > div {
+    margin: 0;
+  }
+
+  .gutter-container {
+    padding: 0 2rem;
+  }
+
+  .gutter-container > p {
+    text-align: justify;
+  }
+
+  .day {
+    margin: 0;
   }
 }
