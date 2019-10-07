@@ -9,13 +9,13 @@
 }
 
 .background-panel {
-    background: #E8AEB7;
+    background: #635142;
     margin: -9rem 0 0 15%;
     padding-top: 11rem;
 }
 
 .background-panel > div {
-    background: #f6e5f4;
+    background: #ffeee0;
     margin-left: -6rem;
     width: 100%;
 }

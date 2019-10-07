@@ -2,24 +2,24 @@
     "title": "Services",
     "services": [
         {
-            "title": "Service 1",
-            "price": "35",
-            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit cuom fermentum, metus platea fusce taciti primis"
-        },
-        {
-            "title": "Service 2",
+            "title": "Classic Lashes - Full Set",
             "price": "30",
-            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit cuom fermentum, metus platea fusce taciti primis"
+            "description": "Classic lash extensions are one lash extension applied to one natural lash."
         },
         {
-            "title": "Service 3",
+            "title": "Classic Lashes - Infill",
             "price": "20",
-            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit cuom fermentum, metus platea fusce taciti primis"
+            "description": "Infills are carried out every 2-3 weeks, this treatment can take up to 1.5 hours."
         },
         {
-            "title": "Service 4",
+            "title": "Classic Lashes - Speedy Infill",
             "price": "15",
-            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit cuom fermentum, metus platea fusce taciti primis"
+            "description": "Speedy infills are carried out every 1-2 weeks, this treatment can take up to 30 minutes."
+        },
+        {
+            "title": "Removal",
+            "price": "10",
+            "description": "Please ensure your lash extension removal is carried out by a professional, this treatment can take up to 15 minutes."
         }
     ]
 }

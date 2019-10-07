@@ -4,13 +4,13 @@ import ImageWithBorder from '../../ImageWithBorder/ImageWithBorder';
 
 import * as ContactCopy from '../../../content/contact.json';
 
-import LashPic from '../../../assets/lash-prep.png';
+import Lashes from '../../../assets/lashes.jpg';
 
 import './Contact.css';
 
 const Contact: React.FunctionComponent = () =>
     <div className="contact">
-        <ImageWithBorder source={LashPic} />
+        <ImageWithBorder source={Lashes} />
         <div className="background-panel">
             <div>
                 <h1>{ContactCopy.title}</h1>
