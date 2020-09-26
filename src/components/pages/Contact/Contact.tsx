@@ -16,7 +16,7 @@ const Contact: React.FunctionComponent = () =>
                 <h1>{ContactCopy.title}</h1>
                 <div className="gutter-container">
                     <p>{ContactCopy.description}</p>
-                    <h2>Hours:</h2>
+                    <h2>Opening Hours:</h2>
                     {
                         Object.keys(ContactCopy.hours).map((key, i) => (
                             <div className="day" key={i}>

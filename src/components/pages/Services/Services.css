@@ -2,23 +2,23 @@
     background-color: #ffeee0;
     left: 0;
     width: 100%;
-    height: 80%;
+    height: 160%;
     position: absolute;
     top: 50%;
     z-index: -1;
 }
 
 .services-container-outer {
-    width: 60%;
-    max-width: 50rem;
-    margin: 5% 10%;
-    background: #635142;
+    width: 70%;
+    max-width: 60rem;
+    margin: 5%;
+    background: #969696;
     padding: 6rem;
 }
 .services-container-outer > div {
     border: 1px solid white;
     margin: -20px;
-    background: #635142;
+    background: #969696;
     padding: 15px;
 }
 
@@ -28,11 +28,11 @@
 }
 
 .service {
-    margin: 3rem 3rem 0 3rem;
+    margin-top: 2rem;
 }
 
-.service p {
-    margin-left: 2.5rem;
+.service > h3 {
+    color: #2c363f;
 }
 
 h1 {

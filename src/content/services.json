@@ -2,24 +2,39 @@
     "title": "Services",
     "services": [
         {
-            "title": "Classic Lashes - Full Set",
+            "title": "Classic Lashes",
             "price": "30",
-            "description": "Classic lash extensions are one lash extension applied to one natural lash."
+            "description": "Lottie will apply lash extensions to each of your own eyelashes along the upper lashline. To create a natural, wispy look, she will choose the suitable curl, length and thickness to suit your eye shape. Infills £20."
         },
         {
-            "title": "Classic Lashes - Infill",
-            "price": "20",
-            "description": "Infills are carried out every 2-3 weeks, this treatment can take up to 1.5 hours."
+            "title": "Hybrid Lashes",
+            "price": "40",
+            "description": "A combination of Classic and Volume eyelashes are applied for a full and fluffy, but defined eyelash effect. It is essentially 'the best of both lash worlds' and is also perfect for transitioning from one eyelash style to the other. Infills £25."
         },
         {
-            "title": "Classic Lashes - Speedy Infill",
-            "price": "15",
-            "description": "Speedy infills are carried out every 1-2 weeks, this treatment can take up to 30 minutes."
+            "title": "Volume Lashes",
+            "price": "50",
+            "description": "The latest trend in semi permanent lash extensions, if you're looking for the 'wow-factor' or something a bit more dramatic, then volume lashes are for you. Each fan is handmade, Lottie will pick up between 2-6 lashes to create a fan. 2 hours are needed for this application as perfection cannot be rushed! Infills £30."
         },
         {
             "title": "Removal",
             "price": "10",
             "description": "Please ensure your lash extension removal is carried out by a professional, this treatment can take up to 15 minutes."
+        },
+        {
+            "title": "Lash Lift and Tint",
+            "price": "25",
+            "description": "This curling and tinting treatment is one of the quickest ways to brighten and lift your entire face."
+        },
+        {
+            "title": "Brow Lamination, Wax and Tint",
+            "price": "30",
+            "description": "Brow Lamination is an innovative beauty treatment, the process of reconstructing the brow hairs to keep them in the desired shape."
+        },
+        {
+            "title": "LBL Brow Makeover",
+            "price": "20",
+            "description": "For perfect brows that frame and lift your features. Your brows will be professionally waxed, threaded and trimmed to create a perfectly symmetrical shape, then a professional tint is applied to add extra definition to your natural brows."
         }
     ]
 }

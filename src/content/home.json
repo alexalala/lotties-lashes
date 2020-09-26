@@ -1,6 +1,9 @@
 {
-    "inspoQuote": "'Life is short, but your lashes shouldn't be...'",
-    "aboutText": "Lorem ipsum dolor sit amet consectetur adipiscing elit cuom fermentum, metus platea fusce taciti primis semper vel scelerisque donec, aenean habitasse urna litora massa mollis hac tempor. Taciti primis semper vel scelerisque donec, aenean habitasse urna litora massa mollis hac tempor.",
+    "inspoQuote": "'Good brows, good lashes, good day.'",
+    "aboutText": [
+        "Lottie’s Beauty Lounge is an established lash and brow lounge based in the heart of North Norfolk.",
+        "Lottie is a fully qualified and insured specialist, offering full brow and lash makeovers to suit your personal needs. Lottie will offer you a superior beauty therapy service as she always stays at the forefront of all latest techniques in the eyelash and brow industry. During the appointment, Lottie will discuss your end goal and then tailor the treatment to suit your desires and needs."
+    ],
     "instagramHeading": "on the Gram",
-    "instagramText": "Follow @lottieslashesnorwich"
+    "instagramText": "Follow @lottiesbeautylounge"
 }

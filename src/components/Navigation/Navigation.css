@@ -1,17 +1,27 @@
 nav {
     display: flex;
-    justify-content: space-between;
+    position: relative;
+}
+
+nav .nav-banner {
+    width: 100%;
+    position: absolute;
+    height: 4rem;
+    background: #eeeeee;
+    top: 5rem;
+    z-index: -1;
 }
 
 nav img {
-    max-width: 7rem;
+    max-width: 10rem;
     margin: 2rem;
+    border-radius: 50%;
 }
 
 nav .navigation-links {
     display: flex;
-    align-items: baseline;
-    margin: auto 20% auto auto;
+    justify-content: center;
+    align-items: center;
 }
 
 nav a {

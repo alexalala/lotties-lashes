@@ -9,7 +9,7 @@
 }
 
 .background-panel {
-    background: #635142;
+    background: #eeeeee;
     margin: -9rem 0 0 15%;
     padding-top: 11rem;
 }
@@ -34,7 +34,7 @@
 
 .day {
     display: flex;
-    margin: 0 20%;
+    margin: 0 15%;
     max-width: 20rem;
     justify-content: space-between;
     font-size: 1.25rem;

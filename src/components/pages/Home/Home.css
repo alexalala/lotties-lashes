@@ -1,5 +1,5 @@
 .headline-banner {
-    background-color: #635142;
+    background-color: #eeeeee;
     max-height: 25rem;
     margin-top: 5rem;
     position: relative;
@@ -18,13 +18,13 @@
     position: absolute;
     top: 6.5rem;
     left: 34rem;
-    padding: 2rem 2%;
+    padding: 2rem 1rem;
     display: flex;
     align-items: center;
 }
 
 .headline-banner h2 {
-    font-size: 1.75rem;
+    font-size: 2rem;
     margin: 1rem;
     font-family: 'CountrysideTwo', cursive;
     font-weight: 100;
@@ -41,7 +41,7 @@
     font-size: 1.25rem;
     text-align: justify;
     margin: 2rem 0;
-    background: #ffeee0;
+    background: #fff6f1;
 }
 
 .socials {
@@ -55,7 +55,7 @@
 
 .socials > a {
     height: 2rem;
-    color: #635142;
+    color: #969696;
     text-decoration: none;
 }
 

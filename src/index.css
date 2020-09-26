@@ -10,7 +10,7 @@ body {
   padding: 0;
   font-family: 'Comfortaa', cursive;
   background: #fbf9f9;
-  color: #635142;
+  color: #696969;
 }
 
 h1 {
@@ -23,7 +23,7 @@ h1 {
   }
 
   nav img {
-    margin: 0.5rem 2rem;
+    margin: 0.5rem auto;
   }
 
   nav .navigation-links {
@@ -58,6 +58,10 @@ h1 {
     font-size: 1.5rem;
   }
 
+  .nav-banner {
+    top: 4rem;
+  }
+
   .about-text {
     margin: 0;
     padding: 1rem 2rem;
@@ -71,7 +75,7 @@ h1 {
   .services-container-outer {
     width: auto;
     margin: 0 1rem;
-    padding: 3rem;
+    padding: 1rem;
   }
 
   .services-container-outer > div > div {
