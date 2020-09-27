@@ -12,10 +12,12 @@ import './Home.css';
 const Home: React.FunctionComponent = () =>
     <div>
         <h1 className="visually-hidden">Home</h1>
-        <div className="headline-banner">
-            <ImageWithBorder source={LashPic} />
-            <div className="quote-container">
-                <h2>{HomeCopy.inspoQuote}</h2>
+        <div>
+            <div className="headline-banner">
+                <ImageWithBorder source={LashPic} />
+                <div className="quote-container">
+                    <h2>{HomeCopy.inspoQuote}</h2>
+                </div>
             </div>
             <div className="about-text">
                 {HomeCopy.aboutText.map((para, i) => (

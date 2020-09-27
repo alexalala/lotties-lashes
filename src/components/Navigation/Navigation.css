@@ -16,6 +16,7 @@ nav img {
     max-width: 10rem;
     margin: 2rem;
     border-radius: 50%;
+    height: auto;
 }
 
 nav .navigation-links {

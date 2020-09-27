@@ -23,6 +23,7 @@
     align-items: center;
 }
 
+.socials h2,
 .headline-banner h2 {
     font-size: 2rem;
     margin: 1rem;
@@ -45,7 +46,7 @@
 }
 
 .socials {
-    margin: 5rem 0px;
+    margin: 2rem 0;
     text-align: center;
 }
 

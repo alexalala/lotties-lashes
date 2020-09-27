@@ -18,3 +18,13 @@ h1 {
 p {
   line-height: 2rem;
 }
+
+.copyright-container {
+  text-align: center;
+  font-size: 0.75rem;
+  color: black;
+}
+
+.copyright-container > p {
+  margin: 0;
+}

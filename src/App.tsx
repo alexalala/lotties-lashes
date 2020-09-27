@@ -23,7 +23,7 @@ class App extends React.Component {
             <Route path="/" component={Home} />
           </Switch>
         </main>
-        <div>
+        <div className="copyright-container">
           <p>&#169;	Lotties Beauty Lounge {currentYear}</p>
         </div>
       </div>
