@@ -9,6 +9,8 @@ import Services from './components/pages/Services/Services';
 
 class App extends React.Component {
   public render() {
+
+    const currentYear = new Date().getFullYear();
     return (
       <div className="App">
         <header>
@@ -21,6 +23,9 @@ class App extends React.Component {
             <Route path="/" component={Home} />
           </Switch>
         </main>
+        <div>
+          <p>&#169;	Lotties Beauty Lounge {currentYear}</p>
+        </div>
       </div>
     );
   }
