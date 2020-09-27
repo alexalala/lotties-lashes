@@ -60,6 +60,10 @@ h1 {
     padding: 2rem;
   }
 
+  .headline-banner {
+    max-height: none;
+  }
+
   .headline-banner h2 {
     font-size: 1.5rem;
   }
