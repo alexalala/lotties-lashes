@@ -35,6 +35,21 @@
             "title": "LBL Brow Makeover",
             "price": "20",
             "description": "For perfect brows that frame and lift your features. Your brows will be professionally waxed, threaded and trimmed to create a perfectly symmetrical shape, then a professional tint is applied to add extra definition to your natural brows."
+        },
+        {
+            "title": "Dermaplane",
+            "price": "30",
+            "description": "Dermaplane is a safe, non-invasive skin treatment that exfoliates the surface of the skin whilst removing the vellus hair (peach fuzz)."
+        },
+        {
+            "title": "Luxury Facial (30 minutes)",
+            "price": "30",
+            "description": "A relaxing facial that includes a full cleanse, toner, exfoliation, massage (including face, neck, arms and hand), a face mask and moisturise. Add a dermaplane treatment for an extra £20."
+        },
+        {
+            "title": "Luxury Facial (60 minutes)",
+            "price": "40",
+            "description": "A relaxing facial that includes a full cleanse, toner, exfoliation, massage (including face, neck, arms and hand), a face mask and moisturise. Add a dermaplane treatment for an extra £20."
         }
     ]
 }
