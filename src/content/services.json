@@ -3,18 +3,18 @@
     "services": [
         {
             "title": "Classic Lashes",
-            "price": "30",
-            "description": "Lottie will apply lash extensions to each of your own eyelashes along the upper lashline. To create a natural, wispy look, she will choose the suitable curl, length and thickness to suit your eye shape. Infills £20."
+            "price": "35",
+            "description": "Lottie will apply lash extensions to each of your own eyelashes along the upper lashline. To create a natural, wispy look, she will choose the suitable curl, length and thickness to suit your eye shape. Infills £25."
         },
         {
             "title": "Hybrid Lashes",
-            "price": "40",
-            "description": "A combination of Classic and Volume eyelashes are applied for a full and fluffy, but defined eyelash effect. It is essentially 'the best of both lash worlds' and is also perfect for transitioning from one eyelash style to the other. Infills £25."
+            "price": "45",
+            "description": "A combination of Classic and Volume eyelashes are applied for a full and fluffy, but defined eyelash effect. It is essentially 'the best of both lash worlds' and is also perfect for transitioning from one eyelash style to the other. Infills £30."
         },
         {
             "title": "Volume Lashes",
-            "price": "50",
-            "description": "The latest trend in semi permanent lash extensions, if you're looking for the 'wow-factor' or something a bit more dramatic, then volume lashes are for you. Each fan is handmade, Lottie will pick up between 2-6 lashes to create a fan. 2 hours are needed for this application as perfection cannot be rushed! Infills £30."
+            "price": "55",
+            "description": "The latest trend in semi permanent lash extensions, if you're looking for the 'wow-factor' or something a bit more dramatic, then volume lashes are for you. Each fan is handmade, Lottie will pick up between 2-6 lashes to create a fan. 2 hours are needed for this application as perfection cannot be rushed! Infills £35."
         },
         {
             "title": "Removal",
